@@ -6,8 +6,6 @@
 
 - 👩‍💻 I work on projects with **with Node.js, React, MongoDB and more.**
 
-- 💼 You can find my projects in the repositories section.
-
 - 📧 Reach me at **https://khouloudmk96@gmail.com**
 
 <br/>
@@ -39,4 +37,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khouloudmk&show_icons=true&locale=en&layout=compact" alt="khouloudmk" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khouloudmk&show_icons=true&locale=en" alt="khouloudmk" /></p>
 </div>
+
+<br/>
+
+  <h3 align="left">💼 You can find my projects in the repositories section :</h3>
+  
+  <p>&nbsp;<img align="center" src="https://raw.githubusercontent.com/GoldAndLink/GoldAndLink/eea7d9bfd171e21ba597603bb7f72647d047b4a7/github-user-contribution-light.svg" alt="khouloudmk" /></p>
 
